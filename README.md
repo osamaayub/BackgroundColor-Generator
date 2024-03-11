@@ -7,5 +7,8 @@ Background-Color Generator that will change the color of background on the Input
 
 2) Steps for to Run the Project
 
-3) Download or Clone the github repository on your computer
+3) Download or Clone the github repository on your computer using git clone "https//wwww.github.com/osamaayub/projectName" Command
+
 4) Open the html file in the live server to view the project
+
+
